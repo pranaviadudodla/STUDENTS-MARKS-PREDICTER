@@ -1,0 +1,9 @@
+streamlit
+pandas
+numpy
+plotly
+scikit-learn
+langchain
+langchain-community
+ollama
+statsmodels
